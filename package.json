@@ -6,7 +6,7 @@
   "scripts": {
     "tsc:init": "tsc --init",
     "build": "tsc",
-    "test": "tsc && jest dist/",
+    "test": "jest dist/",
     "db": "sudo pg_ctlcluster 12 main start"
   },
   "author": "",
