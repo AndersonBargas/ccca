@@ -8,7 +8,8 @@
   "esModuleInterop": true
   },
   "include": [
-      "./src"
+      "./src",
+      "./tst",
   ],
   "exclude": [
       "./node_modules"
